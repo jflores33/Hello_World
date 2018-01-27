@@ -7,7 +7,7 @@
 
 int main(int argc, char **argv) {
 
-  printf("Jaryd Flores");
+  printf("Jaryd Flores and Michael Gaeding");
 
   return 0;
 
